@@ -13,7 +13,15 @@
   </a>
 </p>
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Trainee em Front-end e apaixonado por tecnologia.</h3>
+<p>
+  Atualmente estou iniciando minha carreira como desenvolvedor Front-end, estudando JavaScript e TypeScript e dando os primeiros passos na construção de aplicações web. Aos 25 anos, estou em transição de carreira e comecei a graduação em Análise e Desenvolvimento de Sistemas (ADS).
+
+Aqui no GitHub você encontrará meus projetos de estudo, desafios e minha evolução como desenvolvedor. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+</p>
+<h3>
+  🚀 Tecnologias que estou estudando
+</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
@@ -21,6 +29,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
+  
 </div>
 
 <picture align="center">
